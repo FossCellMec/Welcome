@@ -364,7 +364,7 @@ Eclipse and android studio are the IDEs recommended for a beginner.
 For more details on android studio: https://developer.android.com/studio/index.html
 everything from setting up to using android studio is documented here.
 
-So learn java and more java then android then app creation, it's a long way.Well actually not but if you think so , but havean excellent idea for an app then why wait for java you can use MIT app inventor ,CURIOUS..
+So learn java and more java then android then app creation, it's a long way.Well actually not but if you think so , but have an excellent idea for an app then why wait for java you can use MIT app inventor ,CURIOUS..
 Start here : http://appinventor.mit.edu/explore/ai2/beginner-videos.html
 
 # 6. Google Summer of Code || Google Code-In
